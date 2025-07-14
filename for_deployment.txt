@@ -1,0 +1,2 @@
+after deployment change the url configuration in supabase
+according to the new url for usage !
