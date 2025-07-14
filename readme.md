@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-Main project by Prateek Raj
+Showcase of hotel management project by Prateek Raj
